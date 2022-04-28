@@ -1,2 +1,3 @@
 # myStat
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?ibelarouci=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats]
+(https://github-readme-stats.vercel.app/api?username=ibelarouci)](https://github.com/ibelarouci/github-readme-stats)
